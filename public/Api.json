@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "title": "Software Engineer",
+      "image": "https://randomuser.me/api/portraits/men/1.jpg",
+      "description": "Experienced software engineer with expertise in web development.",
+      "price": 1000.00,
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "title": "Graphic Designer",
+      "image": "https://randomuser.me/api/portraits/women/2.jpg",
+      "description": "Creative graphic designer specializing in branding and digital design.",
+      "price": 750.00,
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Emily Johnson",
+      "title": "Content Writer",
+      "image": "https://randomuser.me/api/portraits/women/3.jpg",
+      "description": "Professional content writer with a passion for storytelling.",
+      "price": 500.00,
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "name": "Michael Brown",
+      "title": "Project Manager",
+      "image": "https://randomuser.me/api/portraits/men/4.jpg",
+      "description": "Skilled project manager with experience in agile methodologies.",
+      "price": 1200.00,
+      "rating": 4.5
+    },
+    {
+      "id": 5,
+      "name": "Sarah Davis",
+      "title": "Marketing Specialist",
+      "image": "https://randomuser.me/api/portraits/women/5.jpg",
+      "description": "Marketing specialist with expertise in digital marketing strategies.",
+      "price": 900.00,
+      "rating": 4.9
+    },
+    {
+      "id": 6,
+      "name": "David Wilson",
+      "title": "UI/UX Designer",
+      "image": "https://randomuser.me/api/portraits/men/6.jpg",
+      "description": "UI/UX designer with a focus on creating user-friendly interfaces.",
+      "price": 800.00,
+      "rating": 4.6
+    },
+    {
+      "id": 7,
+      "name": "Laura Martinez",
+      "title": "Data Scientist",
+      "image": "https://randomuser.me/api/portraits/women/7.jpg",
+      "description": "Data scientist with a strong background in machine learning.",
+      "price": 1500.00,
+      "rating": 4.8
+    },
+    {
+      "id": 8,
+      "name": "James Anderson",
+      "title": "Network Engineer",
+      "image": "https://randomuser.me/api/portraits/men/8.jpg",
+      "description": "Experienced network engineer with a focus on security.",
+      "price": 1100.00,
+      "rating": 4.7
+    },
+    {
+      "id": 9,
+      "name": "Olivia Thomas",
+      "title": "Product Manager",
+      "image": "https://randomuser.me/api/portraits/women/9.jpg",
+      "description": "Product manager with a knack for bringing innovative products to market.",
+      "price": 1300.00,
+      "rating": 4.6
+    },
+    {
+      "id": 10,
+      "name": "Daniel Lee",
+      "title": "Systems Analyst",
+      "image": "https://randomuser.me/api/portraits/men/10.jpg",
+      "description": "Systems analyst with expertise in IT infrastructure and support.",
+      "price": 1000.00,
+      "rating": 4.8
+    },
+    {
+      "id": 11,
+      "name": "Sophia White",
+      "title": "Human Resources Manager",
+      "image": "https://randomuser.me/api/portraits/women/11.jpg",
+      "description": "HR manager with extensive experience in employee relations.",
+      "price": 950.00,
+      "rating": 4.7
+    },
+    {
+      "id": 12,
+      "name": "William Harris",
+      "title": "DevOps Engineer",
+      "image": "https://randomuser.me/api/portraits/men/12.jpg",
+      "description": "DevOps engineer with expertise in CI/CD pipelines and cloud infrastructure.",
+      "price": 1400.00,
+      "rating": 4.6
+    }
+  ]
+  
